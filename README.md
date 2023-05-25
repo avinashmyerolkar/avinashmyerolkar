@@ -1,5 +1,5 @@
 - 👋 Hi, I’m avinashmyerolkar
-- 👀 I’m interested in coding , Fitness
+- 👀 I’m interested in Coding , Fitness
 - 🌱 I’m currently learning AWS cloud technology
 - 📫 How to reach me avinashmyerolkar@gmail.com
 
