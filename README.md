@@ -1,7 +1,6 @@
-# Hi there 👋 I am Avinash M Yerolkar
-- 👀 I’m interested in Coding , Fitness
-- 🌱 I’m currently learning AWS cloud technology
-- 📫 How to reach me avinashmyerolkar@gmail.com
+## Hi there 👋 I am Avinash M Yerolkar
+### About Me
+
 
 <!---
 avinashmyerolkar/avinashmyerolkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
