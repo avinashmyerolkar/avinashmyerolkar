@@ -1,4 +1,4 @@
-                  ## Hi there 👋 I am Avinash M Yerolkar
+## Hi there 👋 I am Avinash M Yerolkar
 ### About Me
 
 
