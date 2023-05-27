@@ -1,8 +1,9 @@
 ## Hi there 👋 I am Avinash M Yerolkar
 ### About Me
 
+🔭 I’m currently working on Data Analysis and Machine Learning
 
-<!---
-avinashmyerolkar/avinashmyerolkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I’m currently learning Deep Learning and AI
+
+📫 How to reach me avinashmyerolkar@gmail.com
+
