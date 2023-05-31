@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on Data Analysis and Machine Learning
 
-🌱 I’m currently learning Deep Learning and AI
+🌱 I’m currently pursuing Postgraduate program in Machine Leanring and Artificial Intelligence
 
 📫 How to reach me avinashmyerolkar@gmail.com
 
