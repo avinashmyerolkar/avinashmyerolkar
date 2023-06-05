@@ -1,5 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on image caption generator project<br>🌱 I’m currently pursuing Postgraduate Program in ML and AI<br>💬 Ask me about Machine learning and python<br>⚡ Fun fact Unleashing the power of data through algorithms and Python.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashmyerolkar&label=Profile%20views&color=0e75b6&style=flat" alt="avinashmyerolkar" /> </p>
+
 
 
 # 💻 Tech Stack:
