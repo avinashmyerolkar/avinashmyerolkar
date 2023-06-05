@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AVINASH M YEROLKAR</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
-💫 About Me:
+💫 <h3 About Me : /h3>
 
 🔭 I’m currently working on Image caption generator project<br>🌱 I’m currently pursuing Postgraduate Program in ML and AI<br>💬 Ask me about Machine learning and python<br>⚡ Fun fact Unleashing the power of data through algorithms and Python.
 
