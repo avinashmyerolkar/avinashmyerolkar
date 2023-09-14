@@ -3,7 +3,7 @@
 
 💫 About Me:
 
-🔭 I’m currently working on - Data Science and Machine Learning<br><br>💬 Ask me about Machine learning and python<br>⚡ Fun fact Unleashing the power of data through algorithms and Python.
+🔭 I’m currently working on - Data Science and Machine Learning<br><br>💬 Ask me about Machine learning and python<br>⚡ Currently working as Intern with Data Science Wizards having platform called Unify AI.
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
