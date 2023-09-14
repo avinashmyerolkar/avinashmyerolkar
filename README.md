@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm AVINASH M YEROLKAR</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
-
 💫 About Me:
 🔭 I’m currently working on - Data Science and Machine Learning<br><br>💬 Ask me about Machine learning and python<br>⚡ Currently working as Intern with Data Science Wizards having platform called Unify AI.
 
