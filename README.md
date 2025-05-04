@@ -1,4 +1,4 @@
-# 👨‍💻 Avinash M. Yerolkar – Data Scientist | Generative AI Engineer | MLOps Practitioner
+# 👨‍💻 Data Scientist | Generative AI Engineer | MLOps Practitioner
 
 Welcome to my GitHub portfolio! I am an experienced Data Scientist with a proven track record in designing, developing, and deploying AI-powered systems that create tangible business value. My core expertise spans across **Machine Learning**, **Deep Learning**, **Generative AI**, and **MLOps**, with hands-on experience in building scalable systems using modern AI stacks and cloud services.
 
