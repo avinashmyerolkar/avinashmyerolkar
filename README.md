@@ -1,4 +1,4 @@
-# 👨‍💻 Avinash Yerolkar – Data Scientist | Generative AI Engineer | MLOps Practitioner
+# 👨‍💻 Avinash M. Yerolkar – Data Scientist | Generative AI Engineer | MLOps Practitioner
 
 Welcome to my GitHub portfolio! I am an experienced Data Scientist with a proven track record in designing, developing, and deploying AI-powered systems that create tangible business value. My core expertise spans across **Machine Learning**, **Deep Learning**, **Generative AI**, and **MLOps**, with hands-on experience in building scalable systems using modern AI stacks and cloud services.
 
@@ -37,8 +37,7 @@ Welcome to my GitHub portfolio! I am an experienced Data Scientist with a proven
 
 ## 💼 Projects & Experience
 
-### 📄 **Procurement Digital Landscape – Johnson & Johnson (Shyena Tech Yarns)**
-*Oct 2023 – Present*
+### 📄 **Procurement Digital Landscape – Johnson & Johnson **
 - Built an **Azure-based RAG system** integrating:
   - Azure Form Recognizer for document parsing  
   - Azure OpenAI for embedding and summarization  
@@ -56,8 +55,7 @@ Welcome to my GitHub portfolio! I am an experienced Data Scientist with a proven
 - Trained custom **NER models** to extract legal entities like parties, addresses, and dates.
 - Deployed models on GPU servers for high-throughput inference.
 
-### 🏦 **Predictive Credit Propensity Model – HSBC (Internship)**
-*Aug 2023 – Oct 2023 @ Data Science Wizards Pvt. Ltd.*
+### 🏦 **Predictive Credit Propensity Model **
 - Performed extensive **data cleaning, feature engineering**, and **dimensionality reduction**.
 - Built machine learning pipelines to score **loan propensity** for customers.
 - Created **REST API** for serving ML predictions using scikit-learn and FastAPI.
