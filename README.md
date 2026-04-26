@@ -55,7 +55,7 @@ Welcome to my GitHub portfolio! I am an experienced Data Scientist with a proven
 - Trained custom **NER models** to extract legal entities like parties, addresses, and dates.
 - Deployed models on GPU servers for high-throughput inference.
 
-### 🏦 **Predictive Credit Propensity Model **
+### 🏦 **Predictive Credit Propensity Model**
 - Performed extensive **data cleaning, feature engineering**, and **dimensionality reduction**.
 - Built machine learning pipelines to score **loan propensity** for customers.
 - Created **REST API** for serving ML predictions using scikit-learn and FastAPI.
