@@ -37,7 +37,7 @@ Welcome to my GitHub portfolio! I am an experienced Data Scientist with a proven
 
 ## 💼 Projects & Experience
 
-### 📄 **Procurement Digital Landscape – Johnson & Johnson **
+### 📄 **Procurement Digital Landscape – Johnson & Johnson**
 - Built an **Azure-based RAG system** integrating:
   - Azure Form Recognizer for document parsing  
   - Azure OpenAI for embedding and summarization  
