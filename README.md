@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Avinash+Yerolkar;AI+Consultant+%40+Deloitte+%F0%9F%8F%A2;GenAI+%7C+RAG+%7C+LLMs+%7C+MLOps;Building+Production-Grade+AI+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I%27m+Avinash+Yerolkar;AI+Consultant+%40+Deloitte+%F0%9F%8F%A2;GenAI+%7C+RAG+%7C+LLMs+%7C+MLOps;Building+Production-Grade+AI+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 ```python
 avinash = {
-    "role"      : "Data Scientist @ Deloitte",
+    "role"      : "AI Consultant @ Deloitte",
     "location"  : "Pune, India 🇮🇳",
     "expertise" : ["GenAI", "RAG", "LLMs", "MLOps", "NLP"],
     "stack"     : ["LangChain", "LangGraph", "Azure OpenAI", "FastAPI", "PyTorch"],
@@ -69,6 +69,8 @@ avinash = {
 |:--------|:------------|:-----|
 | [🤖 Agentic Conversational AI](https://github.com/avinashmyerolkar/agentic_conversational_ai_system) | Production-grade agentic system with RAG, HITL, memory & fault-tolerant orchestration | `LangGraph` `RAG` `Python` |
 | [💰 FinTrack Engine](https://github.com/avinashmyerolkar/fintrack-engine) | AI-powered expense intelligence with NL logging, auto-categorization & spending insights | `Claude` `GenAI` `Python` |
+| [📚 Claude Code Playbook](https://github.com/avinashmyerolkar/claude-code-playbook) | Structured study guide for Claude Code — slash commands, CLAUDE.md, plan mode, MCP, sub-agents & spec-driven development | `Claude Code` `MCP` `AI Agents` |
+| [🔤 Multilabel Transformer Classifier](https://github.com/avinashmyerolkar/Multilabel_Classification_Using_Transformer) | Multilabel text classification using transformer-based architectures for complex NLP tasks | `Transformers` `NLP` `PyTorch` |
 | [📊 InsightPulse AI](https://github.com/avinashmyerolkar/InsightPulse_AI) | Real-time sentiment analysis with end-to-end MLOps pipeline + Chrome extension | `NLP` `MLOps` `BERT` |
 | [📄 RAG-IDPQS-BOT ⭐3](https://github.com/avinashmyerolkar/RAG-IDPQS-BOT) | Scalable technical PDF processor with LLMs & vector DBs for context-aware Q&A | `RAG` `VectorDB` `LLMs` |
 | [📘 IDP Query System](https://github.com/avinashmyerolkar/Intelligent_Document_Processing_and_Query_System) | Intelligent document processing with advanced RAG architecture | `GenAI` `RAG` `Python` |
